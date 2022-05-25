@@ -1,0 +1,42 @@
+.footer-flex {
+  height: 200px;
+  background-color: white;
+  color: white;
+}
+.foot-box {
+  margin-top: 120px;
+  margin-left: 700px;
+  height: 205;
+  display: flex;
+}
+
+.footer-pic-box {
+  height: 205px;
+  width: 200px;
+}
+
+.footer-pic {
+  height: 305px;
+  width: 300px;
+  border-radius: 100px;
+}
+
+.link-box {
+  margin-top: 40px;
+  margin-left: 100px;
+  height: 205px;
+  width: 250px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+li {
+  margin-top: 10px;
+  margin-left: 30px;
+}
+
+a {
+  font-size: 20px;
+}
